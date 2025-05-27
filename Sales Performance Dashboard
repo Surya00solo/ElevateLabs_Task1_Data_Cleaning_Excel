@@ -1,1 +1,24 @@
+Objective:
+To create compelling visualizations that tell a story about sales performance from the given dataset, focusing on key insights and business implications.
 
+Tool Used:
+Power BI
+
+Dashboard Overview:
+My dashboard provides a comprehensive overview of sales performance, combining key performance indicators (KPIs), trend analysis, and categorical breakdowns to offer actionable insights.
+
+Key Findings & Business Insights:
+
+Solid Performance Foundation: The business demonstrates a strong operational base with 5901 total orders, yielding $1.57M in total sales and a healthy $175.26K in total profit. Efficiency is also evident with an average product quantity of 4 units per order and quick 4-day average delivery times.
+Consistent Growth Trajectory (2019 vs. 2020): Both sales and profit exhibited a clear upward trend in 2020 compared to 2019 across most months. This indicates positive business growth and successful strategies implemented in the latter year.
+Category & Sub-Category Dominance: My "Sales by Category" and "Top Selling Sub-Category" charts highlight the leading product lines contributing to revenue, allowing for focused inventory management and marketing efforts.
+Regional & Operational Insights: The "Sales by Region" and "Sales by Payment Mode" visuals provide valuable insights into market strengths and customer preferences. The geographic map further pinpoints high-performing sales territories within the United States.
+Shipping Efficiency: "Sales by Ship Mode" illustrates the preferred shipping methods, potentially informing logistics optimization.
+Visual Storytelling Approach:
+
+I aimed for clarity and impact, using:
+
+Line Charts for temporal trends (Sales & Profit Comparison YoY) to easily visualize growth.
+Bar Charts for categorical comparisons (Sales by Category, Top Selling Sub-Category) for quick identification of top performers.
+Doughnut Charts for proportional breakdowns (Sales by Region, Payment Mode, Segment) to show contributions to the whole.
+A Map Visual for geographic sales distribution within the United States, offering intuitive spatial insights.
